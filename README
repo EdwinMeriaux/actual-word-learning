@@ -1,0 +1,2 @@
+This script trains on the user's past word choices to autocomplete the current word.
+At start of script nothing can be filled and as more words are fed in the script can determine how to finish words you write.
